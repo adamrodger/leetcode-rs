@@ -1,5 +1,6 @@
 [workspace]
 members = [
     "add-two-numbers",
+    "strong-password-checker",
     "word-pattern"
 ]
